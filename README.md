@@ -1,7 +1,7 @@
 # 🚀 RF-DETR: Real-Time Object Detection Transformer
 
 ## �요 Overview
-![Alt text describing the image]([images/your-image.jpg](https://github.com/muhammadrizwan11/RF-DETR-Real-Time-Object-Detection-Transformer/blob/main/prediction.png))
+![YOLOv8 Detection](https://github.com/muhammadrizwan11/YOLOv8-Object-Detection---Image-Inference-with-Ultralytics/blob/main/zidane%20(2).jpg)  
 
 RF-DETR is a cutting-edge object detection transformer-based architecture designed for high-speed, high-accuracy object detection across diverse domains.
 
