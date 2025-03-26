@@ -31,26 +31,7 @@ cd RF-DETR-Real-Time-Object-Detection-Transformer
 pip install -r requirements.txt
 ```
 
-### Basic Usage
 
-```python
-from rfdetr import RFDETRBase
-import supervision as sv
-from PIL import Image
-
-# Load the model
-model = RFDETRBase()
-
-# Load an image
-image = Image.open('path/to/your/image.jpg')
-
-# Perform object detection
-detections = model.predict(image, threshold=0.5)
-
-# Visualize results
-annotated_image = sv.BoxAnnotator().annotate(image.copy(), detections)
-sv.plot_image(annotated_image)
-```
 
 ## 📊 Performance Highlights
 
