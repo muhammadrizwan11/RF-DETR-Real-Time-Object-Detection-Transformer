@@ -18,7 +18,7 @@ RF-DETR is a cutting-edge object detection transformer-based architecture design
 - **RF-DETR Large**: 129M parameters
 
 ### 🛠 Model Performance On RF100-VL Benchmark
-![Alt text describing the image]([images/your-image.jpg](https://github.com/muhammadrizwan11/RF-DETR-Real-Time-Object-Detection-Transformer/blob/main/1111.png))
+![YOLOv8 Detection](https://github.com/muhammadrizwan11/RF-DETR-Real-Time-Object-Detection-Transformer/blob/main/1111.png?raw=true)  
 
 
 
