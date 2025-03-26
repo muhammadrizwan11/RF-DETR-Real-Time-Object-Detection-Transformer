@@ -1,0 +1,31 @@
+# Core Deep Learning and Computer Vision Libraries
+torch>=1.10.0
+torchvision>=0.11.0
+timm>=0.4.12
+
+# Object Detection and Transformation
+rfdetr>=0.1.0
+supervision>=0.6.0
+
+# Image Processing
+pillow>=8.3.1
+numpy>=1.21.0
+opencv-python-headless>=4.5.3.56
+
+# Utilities
+requests>=2.26.0
+io-extra>=0.1.0
+
+# Optional: Jupyter Notebook Support
+jupyter>=1.0.0
+matplotlib>=3.4.3
+
+# Optional: Performance Monitoring
+tensorboard>=2.6.0
+
+# Development and Testing
+pytest>=6.2.5
+flake8>=3.9.2
+
+# Optional: Additional Computer Vision Tools
+albumentations>=1.1.0
